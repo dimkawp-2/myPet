@@ -12,4 +12,6 @@ class MyPat << self
     end
     def random_chaleng
     end
+    def test
+    end
 end
